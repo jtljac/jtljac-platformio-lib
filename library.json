@@ -1,0 +1,22 @@
+{
+  "name": "jtljac platformio lib",
+  "version": "1.0.0",
+  "description": "A library containing utilities that I use often",
+  "keywords": [
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtljac/jtljac-arduino-lib"
+  },
+  "authors": [
+    {
+      "name": "Jacob Lucas",
+      "url": "https://jacob-lucas.uk",
+      "maintainer": true
+    }
+  ],
+  "license": "Unlicense",
+  "frameworks": "*",
+  "platforms": "*"
+}
